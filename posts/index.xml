@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Agni's Personal Site</title><link>https://agnideven.github.io/posts/</link><description>Recent content in Posts on Agni's Personal Site</description><generator>Hugo -- 0.139.3</generator><language>en-us</language><lastBuildDate/><atom:link href="https://agnideven.github.io/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Agni's Personal Site</title><link>https://agnideven.github.io/posts/</link><description>Recent content in Posts on Agni's Personal Site</description><generator>Hugo -- 0.139.3</generator><language>en-us</language><lastBuildDate>Tue, 17 Dec 2024 02:47:23 -0500</lastBuildDate><atom:link href="https://agnideven.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://agnideven.github.io/posts/my-first-post/</link><pubDate>Tue, 17 Dec 2024 02:47:23 -0500</pubDate><guid>https://agnideven.github.io/posts/my-first-post/</guid><description>&lt;h1 id="heres-the-title-of-this-post">Here&amp;rsquo;s the title of this post.&lt;/h1>
+&lt;p>Making modifications to post content.&lt;/p>
+&lt;figure style="text-align: center;">
+&lt;img src="https://agnideven.github.io/images/firstimg.jpg" alt="This is the 'alt' content" style="width:100%; max-width:600px;" />
+&lt;figcaption style="font-size: 0.9em; color: #666; margin-top: 10px;">
+This is the image caption.
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Heres some regular content to check alignment.&lt;/p></description></item></channel></rss>
