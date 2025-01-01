@@ -1,49 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Agni&#39;s Personal Site</title>
-    <link>https://agnideven.github.io/</link>
-    <description>Recent content on Agni&#39;s Personal Site</description>
-    <generator>Hugo -- 0.139.3</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2024 03:13:54 -0500</lastBuildDate>
-    <atom:link href="https://agnideven.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research</title>
-      <link>https://agnideven.github.io/research/</link>
-      <pubDate>Tue, 17 Dec 2024 03:13:54 -0500</pubDate>
-      <guid>https://agnideven.github.io/research/</guid>
-      <description>&lt;p&gt;My research focuses on advancing the fields of &lt;strong&gt;Federated Learning&lt;/strong&gt;, &lt;strong&gt;Privacy-Preserving Computing&lt;/strong&gt;, and &lt;strong&gt;Machine Learning Systems&lt;/strong&gt;. Below is a list of my key publications and research contributions.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h3&gt;
-&lt;h4 id=&#34;federated-learning&#34;&gt;Federated Learning&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;The Cost of Privacy: A Comprehensive Analysis of the Security Issues in Federated Learning&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;sortby=pubdate&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:eQOLeE2rZwMC&#34;&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Toward Multimodal Vertical Federated Learning: A Traffic Analysis Case Study&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:ufrVoPGSRksC&#34;&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;GAN-inspired Defense Against Backdoor Attack on Federated Learning Systems&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:IjCSPb-OGe4C&#34;&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Subjective Logic-based Decentralized Federated Learning for Non-IID Data&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:WF5omc3nYNoC&#34;&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More about me</title>
-      <link>https://agnideven.github.io/about/</link>
-      <pubDate>Tue, 17 Dec 2024 03:13:29 -0500</pubDate>
-      <guid>https://agnideven.github.io/about/</guid>
-      <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px;&#34;&gt;
-  &lt;img src=&#34;https://agnideven.github.io/images/full_length_dp.jpg&#34; alt=&#34;Agnideven Palanisamy Sundar&#34; style=&#34;width: 240px; height: auto; border-radius: 20%; margin-right: 20px;&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;&lt;strong&gt;Hello!&lt;/strong&gt; I&#39;m &lt;strong&gt;Agnideven Palanisamy Sundar&lt;/strong&gt;, a researcher with a passion for advancing secure, privacy-preserving, and scalable Artificial Intelligence systems.&lt;/p&gt;
-    &lt;p&gt;I strongly believe in the importance of security in AI, especially in addressing vulnerabilities like backdoor attacks, which can have profound implications for trust in machine learning. My research emphasizes the transformative potential of &lt;strong&gt;Federated Learning&lt;/strong&gt; to build powerful models while ensuring individual privacy—a cornerstone for the future of AI.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Agni's Personal Site</title><link>https://agnideven.github.io/</link><description>Recent content on Agni's Personal Site</description><generator>Hugo -- 0.139.3</generator><language>en-us</language><lastBuildDate>Tue, 17 Dec 2024 03:13:54 -0500</lastBuildDate><atom:link href="https://agnideven.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://agnideven.github.io/research/</link><pubDate>Tue, 17 Dec 2024 03:13:54 -0500</pubDate><guid>https://agnideven.github.io/research/</guid><description>&lt;p>My research focuses on advancing the fields of &lt;strong>Federated Learning&lt;/strong>, &lt;strong>Privacy-Preserving Computing&lt;/strong>, and &lt;strong>Machine Learning Systems&lt;/strong>. Below is a list of my key publications and research contributions.&lt;/p>
+&lt;hr>
+&lt;h3 id="selected-publications">Selected Publications&lt;/h3>
+&lt;h4 id="federated-learning">Federated Learning&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>&amp;ldquo;The Cost of Privacy: A Comprehensive Analysis of the Security Issues in Federated Learning&amp;rdquo;&lt;/strong>&lt;br>
+&lt;em>&lt;a href="https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;sortby=pubdate&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:eQOLeE2rZwMC">Link&lt;/a>&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&amp;ldquo;Toward Multimodal Vertical Federated Learning: A Traffic Analysis Case Study&amp;rdquo;&lt;/strong>&lt;br>
+&lt;em>&lt;a href="https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:ufrVoPGSRksC">Link&lt;/a>&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&amp;ldquo;GAN-inspired Defense Against Backdoor Attack on Federated Learning Systems&amp;rdquo;&lt;/strong>&lt;br>
+&lt;em>&lt;a href="https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:IjCSPb-OGe4C">Link&lt;/a>&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&amp;ldquo;Subjective Logic-based Decentralized Federated Learning for Non-IID Data&amp;rdquo;&lt;/strong>&lt;br>
+&lt;em>&lt;a href="https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=whNrL10AAAAJ&amp;amp;authuser=1&amp;amp;citation_for_view=whNrL10AAAAJ:WF5omc3nYNoC">Link&lt;/a>&lt;/em>&lt;/p></description></item><item><title>More about me</title><link>https://agnideven.github.io/about/</link><pubDate>Tue, 17 Dec 2024 03:13:29 -0500</pubDate><guid>https://agnideven.github.io/about/</guid><description>&lt;div style="display: flex; align-items: flex-start; gap: 20px;">
+&lt;img src="https://agnideven.github.io/images/full_length_dp.jpg" alt="Agnideven Palanisamy Sundar" style="width: 240px; height: auto; border-radius: 20%; margin-right: 20px;">
+&lt;div>
+&lt;p>&lt;strong>Hello!&lt;/strong> I'm &lt;strong>Agnideven Palanisamy Sundar&lt;/strong>, a researcher with a passion for advancing secure, privacy-preserving, and scalable Artificial Intelligence systems.&lt;/p>
+&lt;p>I strongly believe in the importance of security in AI, especially in addressing vulnerabilities like backdoor attacks, which can have profound implications for trust in machine learning. My research emphasizes the transformative potential of &lt;strong>Federated Learning&lt;/strong> to build powerful models while ensuring individual privacy—a cornerstone for the future of AI.&lt;/p></description></item></channel></rss>
