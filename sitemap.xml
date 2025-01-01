@@ -2,23 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://agnideven.github.io/</loc>
     <lastmod>2024-12-17T03:13:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://agnideven.github.io/research/</loc>
     <lastmod>2024-12-17T03:13:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://agnideven.github.io/about/</loc>
     <lastmod>2024-12-17T03:13:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://agnideven.github.io/posts/</loc>
     <lastmod>2024-12-17T02:47:23-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-17T02:47:23-05:00</lastmod>
+    <loc>https://agnideven.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://agnideven.github.io/tags/</loc>
   </url>
 </urlset>
